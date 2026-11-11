@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "PLANIFY",
+    "slug": "planify-android",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.planify.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#100D19"
+      }
+    },
+    "splash": {
+      "backgroundColor": "#100D19",
+      "resizeMode": "contain"
+    }
+  }
+}
